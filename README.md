@@ -9,3 +9,4 @@ shopping interactive and easy to use. Customers will be able to search for speci
 supplements through a search engine built-in. Each product would have its specifications .
 Customers can also view the product reviews and write their own reviews. The main
 emphasis lies in providing a user-friendly platform to connect our customers
+[Gym supplement website.pdf](https://github.com/Anirudh77777/Gym-supplement-website/files/10259571/Gym.supplement.website.pdf)
